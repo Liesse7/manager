@@ -1,0 +1,45 @@
+body {
+  background-image: url(images/pexels-photo-3184418.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0.515);
+  background-blend-mode: darken;
+  margin: o;
+}
+.text {
+  margin-left: 83vh;
+  margin-top: 20px;
+  color: rgba(255, 255, 255, 0.695);
+}
+.card {
+  background-color: #ef1d71b0;
+  width: 60vh;
+  height: 80vh;
+  margin: auto;
+}
+form {
+  margin: 30px 70px;
+  padding-top: 50px;
+}
+.form-group label {
+  display: block;
+  font-size: 20px;
+}
+.form-group input {
+  width: 200px;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgba(0, 0, 0, 0.286);
+  color: white;
+  text-size-adjust: ;
+}
+.bar-group {
+  padding-left: 40px;
+  font-size: 17px;
+  color: white;
+  padding-top: 0px;
+}
+.bar-but {
+  padding-left: 150px;
+}

@@ -1,0 +1,44 @@
+body {
+  background-image: url(images/pexels-photo-3184418.jpeg);
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+  background-size: cover;
+  margin: 0;
+}
+
+.card {
+  background-color: #ef1d71b0;
+  width: 50vh;
+  height: 60vh;
+  margin: auto;
+}
+.form {
+  margin: 30px 40px;
+  padding-top: 50px;
+}
+.form-group label {
+  display: block;
+  font-size: 20px;
+}
+.form-group input {
+  width: 200px;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgba(0, 0, 0, 0.412);
+  color: white;
+}
+.bar-group {
+  padding-left: 40px;
+  font-size: 17px;
+  color: white;
+  padding-top: 0px;
+}
+.bar-but {
+  padding-left: 120px;
+  color: black;
+}
+.text {
+  padding-left: 85vh;
+  color: rgba(255, 255, 255, 0.527);
+}

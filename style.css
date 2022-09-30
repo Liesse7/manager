@@ -1,0 +1,54 @@
+body {
+  background-image: url(images/pexels-photo-3184418.jpeg);
+  background-color: rgba(0, 0, 0, 0.8);
+  background-blend-mode: darken;
+  height: 90vh;
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  padding: 0;
+  margin: 0;
+}
+.bar {
+  float: right;
+  list-style: none;
+  margin-top: 20px;
+  padding-right: 10px;
+}
+.bar li {
+  display: inline-block;
+}
+.bar li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 5px 20px;
+  font-size: 20px;
+}
+.bar li a:hover {
+  background:rgba(255, 192, 203, 0.628);
+  color: #333;
+}
+.logo img {
+  width: 100px;
+  float: left;
+  padding-top: 2px;
+  margin-right: 1px;
+}
+.wrapper {
+  background-color: #ef1d71b9;
+  width: 204.5vh;
+  height: 15vh;
+  padding: 0px;
+}
+.word {
+  font-size: 60px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  text-align: center;
+  text-indent: 60px;
+  text transform: lowercase;
+  color: #fff;
+  word-spacing: 10px;
+  margin: 50px;
+  
+}
